@@ -2,13 +2,16 @@ import * as React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import AllPromotions from "../components/allPromotions"
-import Layout from "../components/layout"
 import Seo from "../components/seo"
-
+import Header from "../components/header"
+import CardsSelectPreview from "../components/cardsSelectPreview"
 const IndexPage = () => (
-  <Layout>
-    <AllPromotions/>
-  </Layout>
+  <>
+    <Header />
+    <div className="p-3">
+      <AllPromotions />
+    </div>
+  </>
 )
 
 export default IndexPage

@@ -1,0 +1,32 @@
+[
+    {
+        "Supplier": "Itau",
+        "Code": "VLPR",
+        "Name": "Visa LATAM Pass Regional",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-latam/latampass-regional@2x.c47427d3.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VLPINT",
+        "Name": "Visa LATAM Pass Internacional",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-latam/latampass-internacional@2x.6b0e81b2.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VLPO",
+        "Name": "Visa LATAM Pass Oro",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-latam/latampass-gold@2x.6f6ec4d2.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VLPP",
+        "Name": "Visa LATAM Pass Platinum",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-latam/latampass-platinum@2x.bf9f787f.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VLPI",
+        "Name": "Visa LATAM Pass Infinite",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-latam/latampass-infinite@2x.a30e7a7d.png"
+    }
+]

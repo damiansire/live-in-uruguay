@@ -1,0 +1,470 @@
+[
+    {
+        "card": "Itau Credito",
+        "link": "https://www.itauvolar.com.uy/volar/#/?utm_source=Placa_Home_Volar&utm_medium=Placa_home&utm_campaign",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_2359330_bannerssolotextocanjesvolar216x216.jpg",
+        "title": "Canje de millas del programa Volar",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_419531_iPLACE216x216.jpg",
+        "title": "24 cuotas sin recargo con tarjetas de crédito Visa",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "https://www.itau.com.uy/inst/beneficiosexclusivos.html",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_4189584_216x216.jpg",
+        "title": "25% menos tarjetas Oro, Platinum, Infinite y Black",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_276106_SanRoque216x216.jpg",
+        "title": "25% menos San Roque",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_2511973_ElVirrey216x216.jpg",
+        "title": "25% menos en nueva librería El Virrey Carrasco",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_247291_GLIC216X216.jpg",
+        "title": "25% en envíos de Glic",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_721312_MargaraShaw216x216.jpg",
+        "title": "25% menos en Margara Shaw",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "https://www.nuevosiglo.com.uy/Promos/1953",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_261107_NUEVOSIGLO216x216.jpg",
+        "title": "25% adicional en plan Nuevo Siglo",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_212443_LEBLANC216X216.jpg",
+        "title": "25% menos en Le Blanc",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1852649_LYTE216X216.jpg",
+        "title": "25% menos en Lyte Iluminación",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1863488_TRIOS216X216.jpg",
+        "title": "25% menos en Trios Lighting",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_83777_bannerswebFundaci%C3%B3nIta%C3%BA216x216.jpg",
+        "title": "25% menos en cursos de Fundación Itaú",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_3878138_IEEM216x216.jpg",
+        "title": "25% menos IEEM - Programa Jóvenes Profesionales",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "https://productos.misbeneficios.com.uy/",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_201421_MisBeneficios216x216.jpg",
+        "title": "Precios exclusivos en misbeneficios.com.uy",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "https://www.itau.com.uy/inst/telepeaje.html",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_457232_banner_telepeaje_216x216.png",
+        "title": "Solicitá gratis tu Tag de Telepeaje",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_158488_216X216SALTO.jpg",
+        "title": "25% menos en comercios adheridos de Salto",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_402257_banner_paysand%C3%BA.jpg",
+        "title": "25% menos en comercios adheridos de Paysandú",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_343574_216X216TACUAREMBO.jpg",
+        "title": "25% menos en comercios adheridos de Tacuarembó",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_3438668_banner_mercedes.jpg",
+        "title": "25% menos en comercios adheridos de Mercedes",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "https://www.itau.com.uy/inst/restaurantes.html",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_3794867_bannerssolotextorestaurantes216x216.jpg",
+        "title": "15% menos en restaurantes de Montevideo ",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1260414_DIVINO216x216.jpg",
+        "title": "15% menos en Divino ",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1495726_Cir_216x216.jpg",
+        "title": "15% menos en estufas y calefactores a leña BOSCA ",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_255545_Bosch216x216.jpg",
+        "title": "15% menos en Bosch&Cia",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Credito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_126276_CANDYSWEET216x216.jpg",
+        "title": "15% menos en Candy Sweet",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "https://www.itauvolar.com.uy/volar/#/?utm_source=Placa_Home_Volar&utm_medium=Placa_home&utm_campaign",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_3640470_bannerssolotextocanjesvolar216x216.jpg",
+        "title": "Canje de millas del programa Volar",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_4133891_Plataformasstreaming216x216.jpg",
+        "title": "50% menos en Netflix y Spotify",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_289754_GLIC216X216.jpg",
+        "title": "25% en envíos de Glic",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "https://www.itau.com.uy/inst/restaurantes.html",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1747829_bannerssolotextorestaurantes216x216.jpg",
+        "title": "15% menos en restaurantes de Montevideo",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_120445_CANDYSWEET216x216.jpg",
+        "title": "15% menos en Candy Sweet",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_878071_PedidosYaNuevo216x216.jpg",
+        "title": "10% menos en PedidosYa ",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_979453_PEDIDOMARKET216X216.jpg",
+        "title": "10% menos en PedidosYa Market",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_295614_SanRoque216x216.jpg",
+        "title": "10% menos en San Roque",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_466444_ElT%C3%BAnel_216x21625.jpg",
+        "title": "10% menos en El Túnel",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1581964_MOSCA216x216.jpg",
+        "title": "10% menos en Mosca",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_292434_Freddo216x21616.jpg",
+        "title": "2x1 en Freddo",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_297962_LasDelicias216x21618.jpg",
+        "title": "2x1 en Las Delicias",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Debito",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_293946_Auxicar216x21615.jpg",
+        "title": "Auxicar",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Alimentacion",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1003804_PEDIDOMARKET216X216.jpg",
+        "title": "10% menos en PedidosYa Market",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    },
+    {
+        "card": "Itau Alimentacion",
+        "link": "javascript:;",
+        "imgUrl": "https://www.itau.com.uy/inst/aci/images/img_1352351_BANNERPEDIDOSYA216X216.jpg",
+        "title": "10% menos en PedidosYa",
+        "categories": [
+            "cat1",
+            "cat2"
+        ],
+        "amount": "natural language",
+        "lugar": "name of place"
+    }
+]

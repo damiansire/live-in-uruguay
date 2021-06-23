@@ -1,0 +1,32 @@
+[
+    {
+        "Supplier": "Itau",
+        "Code": "VVR",
+        "Name": "Visa Volar Regional",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-volar/volar-visa-regional.843ad8ed.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VVINT",
+        "Name": "Visa Volar Internacional",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-volar/volar-visa-internacional.2743e02f.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VVO",
+        "Name": "Visa Volar Oro",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-volar/volar-visa-gold.37e33bd5.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VVP",
+        "Name": "Visa Volar Platinum",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-volar/volar-visa-platinum.ec8a1d14.png"
+    },
+    {
+        "Supplier": "Itau",
+        "Code": "VVI",
+        "Name": "Visa Volar Infinite",
+        "ImgSrc": "https://www.itau.com.uy/inst/includes/tarjeta-volar/volar-visa-infinite.6203efd6.png"
+    }
+]
